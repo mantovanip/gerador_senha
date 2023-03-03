@@ -1,5 +1,5 @@
 <h1>Password Generator</h1>
-<hr>
+
 <h3>This is a web-based tool that allows you to generate strong and secure passwords with high entropy. The tool is built using HTML, CSS, and JavaScript.</h3>
 
 <h2>Features</h2>
