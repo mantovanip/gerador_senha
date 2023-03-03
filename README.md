@@ -3,21 +3,23 @@
 <h3>This is a web-based tool that allows you to generate strong and secure passwords with high entropy. The tool is built using HTML, CSS, and JavaScript.</h3>
 
 <h2>Features</h2>
-
-<p>Customizable password length: You can specify the desired length of the password.
-Uppercase letters: You can choose to include uppercase letters in your password.
-Numbers: You can choose to include numbers in your password.
-Symbols: You can choose to include symbols in your password.
-Copy Password: Once you have generated a password, you can copy it to your clipboard with a single click.</p>
+<ul>
+	<li>Customizable password length: You can specify the desired length of the password.</li>
+	<li>Uppercase letters: You can choose to include uppercase letters in your password.</li>
+	<li>Numbers: You can choose to include numbers in your password.</li>
+	<li>Symbols: You can choose to include symbols in your password.</li>
+	<li>Copy Password: Once you have generated a password, you can copy it to your clipboard with a single click.</li>
+</ul>
 
 <h2>How to Use</h2>
-
-<p>Open the password generator tool in your web browser.
-Choose the desired length of your password.
-Check the boxes for the types of characters you want to include in your password (uppercase letters, numbers, and/or symbols).
-Click the "Generate Password" button.
-Your new password will be displayed in the password field.
-Click the "Copy Password" button to copy the password to your clipboard.</p>
+<ol>
+	<li>Open the password generator tool in your web browser.</li>
+	<li>Choose the desired length of your password.</li>
+	<li>Check the boxes for the types of characters you want to include in your password (uppercase letters, numbers, and/or symbols).</li>
+	<li>Click the "Generate Password" button.</li>
+	<li>Your new password will be displayed in the password field.</li>
+	<li>Click the "Copy Password" button to copy the password to your clipboard.</li>
+</ol>
 
 <h2>Security</h2>
 
